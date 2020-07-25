@@ -1,14 +1,8 @@
-# Evil-Droid-RU
--<h1>Install:</h1>
-+#Написано специально для форума DarkNet - теневой интернет
-+<h1>Установка:</h1>
-+<br><h2>Качаем:<h2>
- <br>
- git clone https://github.com/CorpOfHack/Evil-Droid-RU.git<br>
--cd Evil-Droid-RU<br>
-+<h2>Заходим в папку:<br>
-+cd Evil-Droid-RU<br><h2>Делаем исполняемым</h2>
- chmod +x evil-droid-ru<br>
-+<h2>Запускаем</h2><br>
- ./evil-droid-ru<br>
-+<img src="http://piccy.info/view3/11680822/e9f4e2c8789a68fa5a746f5f8c3b4878/" />
+<h1>Написано специально для форума https://cybernet.network</h1> 
+<h3>Установка:</h3>
+<p>git clone https://github.com/CorpOfHack/Evil-Droid-RU.git</p>
+<p>cd Evil-Droid-RU</p>
+<p>chmod +x evil-droid-ru</p>
+<p>./evil-droid-ru</P>
+<img src="http://piccy.info/view3/11680822/e9f4e2c8789a68fa5a746f5f8c3b4878/" 
+<hr />
